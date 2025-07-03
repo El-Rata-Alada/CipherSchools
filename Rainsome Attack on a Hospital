@@ -1,0 +1,13 @@
+In this ransomware attack, the CIA Triad Confidentiality, Integrity, and Availability was clearly violated.
+Availability was directly affected, as systems were locked and critical services like surgeries were halted.
+Confidentiality may have been compromised if patient records were accessed or copied.
+Integrity is at risk too, since there’s no guarantee that the data, even if recovered, hasn’t been tampered with.
+
+This incident involves both Personally Identifiable Information and Critical Information Infrastructure.
+Patient records contain sensitive PII such as names, health history, and identification details.
+Since the hospital is part of the healthcare sector—considered CII due to its importance to public health and safety—the disruption impacts not just individuals but society at large.
+
+To prevent such incidents, the hospital should adopt a cybersecurity framework like the NIST Cybersecurity Framework.
+This includes identifying critical assets, protecting systems with access controls and encryption,
+detecting threats with real-time monitoring, responding quickly to incidents, and recovering through backups and incident response plans.
+Regular staff training, updated software, and coordination with national cybersecurity agencies are also key parts of a long-term security strategy.
