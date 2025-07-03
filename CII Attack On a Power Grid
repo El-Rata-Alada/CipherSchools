@@ -1,0 +1,9 @@
+A power grid is classified as Critical Information Infrastructure (CII) because it supports essential services that are vital to national security, public safety, and the economy.
+Disruptions to the power grid can impact hospitals, transportation, communication, and other key sectors, making it a prime target for cyberattacks.
+
+Cyber threats to CII are more dangerous than those to general IT systems because they can cause real-world harm, such as power outages or disruption of essential services.
+While attacks on IT systems usually focus on stealing data or causing financial damage, attacks on CII can affect large populations and critical operations. The impact is broader, and the systems involved often have more severe consequences when compromised.
+
+To strengthen CII security, organizations should improve staff awareness and training to avoid phishing attacks. Network segmentation should be used to isolate sensitive systems.
+Regular security checks, real-time threat monitoring, and intrusion detection tools are also important. Applying strict access controls, keeping systems updated,
+and coordinating with national cybersecurity agencies like CERT-In and NCIIPC will help protect against future threats.
